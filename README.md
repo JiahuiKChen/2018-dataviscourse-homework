@@ -18,7 +18,7 @@ Thorough information [here](https://github.com/JiahuiKChen/2018-dataviscourse-ho
  
  ![Clicking Things](/hw4/figs/click.gif)
   
- Visualization component functionality:
+ Visualization's components:
  
  ![Gap Plot Data Change](/hw4/figs/data-change.gif)
  
@@ -46,3 +46,13 @@ Visualization components include:
 Here's a [video](https://youtu.be/VpuXaajgJq4) of the visualization's functionality.
 
 More details [here](https://github.com/JiahuiKChen/2018-dataviscourse-homework/blob/master/hw6/README.md)
+
+## How to Run 
+From any homework's root directory (example: Homework 6's root directory is `hw6`) running a web server will launch the project locally in a web browser.
+
+Example: 
+```
+cd <path to this repository's root directory>/hw6
+python3 -m http.server
+```
+Will run Homework 6 (clicking on the `.html` file will display the visualization). 
