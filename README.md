@@ -1,20 +1,21 @@
 # Homeworks for Utah's Vis for Data Science Course
-In subfolders in this directory you will find the homeworks for CS 6630 / CS 5630 - Visualization for Datascience. 
+In subfolders in this directory you will find some homework projects for CS 6630 / CS 5630 - Visualization for Datascience. 
 
-More information can be found on the [course website](http://dataviscourse.net/)
+More information can be found on the [course website](http://dataviscourse.net/2018/index.html)
 
-We suggest you clone this repository: 
+### Homework 1
+Bar, line, area, and scatterplot charts visualizing [Anscombe's Quartet dataset](https://en.wikipedia.org/wiki/Anscombe%27s_quartet).
+Thorough information [here](https://github.com/JiahuiKChen/2018-dataviscourse-homework/blob/master/hw1/hw1.md)
 
-``` 
-git clone https://github.com/dataviscourse/2018-dataviscourse-homework
-```
-
-To receive updates and add newly released homeworks update your repository by cd-ing into the `2018-dataviscourse-homework` directory and running:
-
-```
-git pull
-```
-
-## Submitting Homeworks
-
-Please submit homeworks using the appropriate [canvas dropbox](https://utah.instructure.com/courses/503254/).
+ ### Homework 2
+ Manually generated tree using D3 and Javascript. 
+ Thorough information [here](https://github.com/JiahuiKChen/2018-dataviscourse-homework/blob/master/hw2/hw2.md)
+ 
+ ### Homework 4
+ World health data displayed via an interactive world map, scatterplot, and information box.
+ ![Gap Plot Data Change](figs/data-change.gif)
+ ![Gap Plot Year Slider](figs/year_slider.gif)
+ ![Clicking Things](figs/click.gif)
+ Here's a [video](figs/click.mp4) of the visualization's functionality. 
+ 
+ 
