@@ -16,6 +16,6 @@ Thorough information [here](https://github.com/JiahuiKChen/2018-dataviscourse-ho
  ![Gap Plot Data Change](figs/data-change.gif)
  ![Gap Plot Year Slider](figs/year_slider.gif)
  ![Clicking Things](figs/click.gif)
- Here's a [video](figs/click.mp4) of the visualization's functionality. 
+ Here's a [video](/hw4/figs/click.mp4) of the visualization's functionality. 
  
  
